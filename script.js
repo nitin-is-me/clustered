@@ -36,6 +36,3 @@ async function loadNotes(){
 }
 
 document.addEventListener("DOMContentLoaded", loadNotes);
-
-//new code
-setInterval(loadNotes, 500)
