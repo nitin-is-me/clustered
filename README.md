@@ -7,7 +7,7 @@ You can't delete the notes yourself, it's under my control (I thought that's an 
 <br>
 You have to enter the note with your name (not necessarily your real name), so that it can be identified
 <br>
-You can visit the app <a href="https://nitin-is-me.github.io/clustered/">here</a>
+You can visit the app <a href="https://nitin-is-me.github.io/clustered/">here (hosted on github)</a> or <a href="https://clustered-main.vercel.app/">here (hosted on vercel)</a>
 
 ## How it's made
 You can check the front end code in this repo, HTML and Javascript is used along with CSS and Bootstrap.
