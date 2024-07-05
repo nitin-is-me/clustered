@@ -5,7 +5,7 @@ The twist is, everyone's notes will be saved at the same place, irrespective of 
 <br>
 You can't delete the notes yourself, it's under my control (I thought that's an interesting feature to include).
 <br>
-You have to enter the note with your name (not necessarily your real name), so that it can be identified
+You have to enter the note with your name (not necessarily your real name), so that it can be identified.
 <br>
 You can visit the app <a href="https://nitin-is-me.github.io/clustered/">here (hosted on github)</a> or <a href="https://clustered-main.vercel.app/">here (hosted on vercel)</a>
 
